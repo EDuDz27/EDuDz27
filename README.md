@@ -2,7 +2,7 @@
 
 <p align="left">
     🔭 Estudante de Análise e Desenvolvimento de Sistemas.<br>
-    📚 Tenho experiência com: HTML, CSS, JavaScript, SQL e Python<br>
+    📚 Tenho experiência com: HTML, CSS, JavaScript, SQL e Python.<br>
     🚀 Busco oportunidades para aplicar minhas habilidades visando me tornar um full-stack.<br>
     🔍 Em aprendizado contínuo.
 </p>
@@ -11,9 +11,9 @@
 
 <div>
   <h3 align="left">Projetos</h3>
-  <a href="#">Placeholder</a> - Placeholder
-  <a href="#">Placeholder</a> - Placeholder
-  <a href="#">Placeholder</a> - Placeholder
+  <a href="#">Placeholder</a> - Placeholder <br>
+  <a href="#">Placeholder</a> - Placeholder <br>
+  <a href="#">Placeholder</a> - Placeholder <br>
 </p>
 </div>
 
