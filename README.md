@@ -40,6 +40,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDuDz27&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=github_dark&hide_border=true)
 
-<div style="display: flex; justify-content: center;">
-  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDuDz27&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=github_dark&hide_border=true)" height="180" alt="languages graph"/>
-</div>
+<span src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDuDz27&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=github_dark&hide_border=true)" height="180" alt="languages graph"><span/> 
