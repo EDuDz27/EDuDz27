@@ -11,9 +11,9 @@
 
 <div>
   <h3 align="left">Projetos</h3>
-  <a href="#">Placeholder</a> - Placeholder <br>
-  <a href="#">Placeholder</a> - Placeholder <br>
-  <a href="#">Placeholder</a> - Placeholder <br>
+  <a href="#">Abrir Projeto</a> - GestorStock <br>
+  <a href="#">Abrir Projeto</a> - PyBird (pygame) <br>
+  <a href="#">Abrir Projeto</a> - Travel Without Problems <br>
 </p>
 </div>
 
