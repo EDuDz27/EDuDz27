@@ -32,7 +32,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:eduaraujosilva27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/eduardo-araujo-eniac/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDuDz27&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDuDz27&layout=compact&theme=midnight-purple&locale=pt-br)
 
 <div style="display: flex; justify-content: center;">
 
