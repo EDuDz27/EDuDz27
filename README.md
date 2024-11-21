@@ -11,9 +11,9 @@
 
 <div>
   <h3 align="left">Projetos</h3>
-  <a href="#">Abrir Projeto</a> - GestorStock <br>
-  <a href="#">Abrir Projeto</a> - PyBird (pygame) <br>
-  <a href="#">Abrir Projeto</a> - Travel Without Problems <br>
+  <a href="https://github.com/EDuDz27/GestorStock">Abrir Projeto</a> - GestorStock <br>
+  <a href="https://github.com/EDuDz27/py-flappy">Abrir Projeto</a> - Py Flappy (pygame) <br>
+  <a href="https://github.com/EDuDz27/Travel-Without-Problem">Abrir Projeto</a> - Travel Without Problems <br>
 </p>
 </div>
 
@@ -37,8 +37,6 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0f6bff&color:FFF)](mailto:eduaraujosilva27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0f6bff&color:FFF)](https://www.linkedin.com/in/eduardo-araujo-eniac/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDuDz27&layout=compact&theme=midnight-purple&locale=pt-br)
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDuDz27&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="180" alt="languages graph" />
