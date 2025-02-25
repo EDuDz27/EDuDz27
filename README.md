@@ -1,4 +1,4 @@
-<h2 align="left">Hello Word, eu sou Eduardo Araujo 👋</h2>
+<h2 align="left">Hello World, eu sou Eduardo Araujo 👋</h2>
 
 <p align="left">
     🔭 Estudante de Análise e Desenvolvimento de Sistemas.<br>
